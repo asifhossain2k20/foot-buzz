@@ -98,7 +98,7 @@ body{
     border-radius: 10px;
 }
 .blog img{
-    width: 220px;
+    width: 260px;
 }
 .blog-container{
     padding: 20px;
@@ -157,7 +157,7 @@ footer{
     
 }
 .blog-match img{
-    width: 68px !important;
+    width: 70px !important;
 }
 .blog-match h1{
     margin: 0 10px;
